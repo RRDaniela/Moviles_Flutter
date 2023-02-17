@@ -1,4 +1,11 @@
-## App Crypto look
+# Descripción
+Se requiere hacer una aplicación con diseño basado en lineamientos de material design, la cual aproveche de manera óptima el espacio en pantalla, además de mostrar al usuario una interfaz con la cual pueda interactuar y navegar dentro de la aplicación.
+
+# App Crypto look
+Esta app consta de una pantalla donde se muestra un listado de exchanges famosas de criptodivisas. A continuacion se muestra un ejemplo de la UI a implementar.
+
+## App Crypto look 
+### Temas
 - List Tile
 - Serialización de un string en formato JSON
 - CircleAvatar
